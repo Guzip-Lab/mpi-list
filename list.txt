@@ -1,0 +1,5 @@
+{package}.
+
+python = python[apt]
+
+fastfetch = fastfetch[apt]
